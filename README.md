@@ -115,45 +115,6 @@ gantt
     Tech Blog & Tutorials         :2026-03-01, 300d
 ```
 
----
-
-<div align="center">
-
-## 🔥 CODING ACTIVITY
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=BETACRD01&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&layout=compact" width="49%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BETACRD01&theme=radical&hide_border=true" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-## 💼 OPEN FOR OPPORTUNITIES
-
-<img src="https://img.shields.io/badge/Freelance-Available-00FF00?style=for-the-badge&logo=freelancer&logoColor=white" />
-<img src="https://img.shields.io/badge/Collaborations-Open-00F7FF?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Consulting-Available-FF6D00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnptMCAxOGMtNC40MSAwLTgtMy41OS04LThzMy41OS04IDgtOCA4IDMuNTkgOCA4LTMuNTkgOC04IDh6bTAtMTRjLTIuMjEgMC00IDEuNzktNCA0czEuNzkgNCA0IDQgNC0xLjc5IDQtNC0xLjc5LTQtNC00eiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=" />
-
-### 💡 Services I Offer
-
-```
-✨ Flutter Mobile App Development
-🔥 Firebase Backend Integration  
-🗺️ Google Maps API Implementation
-🎨 UI/UX Design & Prototyping
-⚡ App Performance Optimization
-📱 iOS & Android Deployment
-🤝 Technical Consulting
-📚 Code Review & Mentoring
-```
-
-</div>
-
----
-
 <div align="center">
 
 ## 🌐 CONNECT WITH ME
