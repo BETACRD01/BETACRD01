@@ -89,6 +89,3 @@
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,gcp,javascript,typescript,nodejs,postgres,git,github,vscode,figma,postman,linux" />
 
 </div>
-
-
-
