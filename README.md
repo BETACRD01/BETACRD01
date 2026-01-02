@@ -90,30 +90,5 @@
 
 </div>
 
----
 
-<div align="center">
-
-## 🎯 2026 ROADMAP
-
-</div>
-
-```mermaid
-gantt
-    title Willian's 2026 Development Goals
-    dateFormat  YYYY-MM-DD
-    section Projects
-    Launch Deliber v1.0           :2026-01-01, 90d
-    Scale to 1K Users             :2026-03-01, 60d
-    Implement Premium Features    :2026-05-01, 90d
-    section Learning
-    Master Clean Architecture     :2026-01-01, 120d
-    Advanced Firebase             :2026-02-01, 90d
-    CI/CD Pipeline                :2026-04-01, 60d
-    section Community
-    Open Source Contributions     :2026-01-01, 365d
-    Tech Blog & Tutorials         :2026-03-01, 300d
-```
-
-<div align="center">
 
