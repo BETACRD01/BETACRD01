@@ -118,11 +118,11 @@ const willian = {
 
 ## 📊 GITHUB ANALYTICS
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BETACRD01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BETACRD01&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BETACRD01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_seconds=1800" />
+<img width="49%" src="https://streak-stats.demolab.com?user=BETACRD01&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BETACRD01&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=10" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=BETACRD01&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FF6D00" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BETACRD01&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=10&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=BETACRD01&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FF6D00&area=true" />
 
 </div>
 
@@ -226,10 +226,9 @@ gantt
 
 ## 🔥 CODING ACTIVITY
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=BETACRD01&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&layout=compact" width="49%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BETACRD01&theme=radical" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BETACRD01&theme=radical&hide_border=true" width="100%" />
 
 </div>
 
@@ -303,9 +302,9 @@ gantt
 
 <div align="center">
 
-## 🐍 CONTRIBUTION SNAKE
+## 🐍 CONTRIBUTION GRAPH
 
-<img src="https://raw.githubusercontent.com/BETACRD01/BETACRD01/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+![](https://github-readme-activity-graph.vercel.app/graph?username=BETACRD01&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FF6D00&area=true&custom_title=Contribution%20Activity)
 
 </div>
 
