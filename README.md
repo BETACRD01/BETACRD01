@@ -117,34 +117,3 @@ gantt
 
 <div align="center">
 
-## 🌐 CONNECT WITH ME
-
-<a href="https://www.tiktok.com/@willian_crd">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/willian.cerda.2025?Localidad=es_LA">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://instagram.com/Willian_crd01">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:willian.crd@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-
-<div align="center">
-
-### 🎯 "First, solve the problem. Then, write the code." - John Johnson
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-### ⭐️ From [BETACRD01](https://github.com/BETACRD01) with 💚
-
-</div>
