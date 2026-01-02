@@ -197,16 +197,6 @@ gantt
 
 <div align="center">
 
-## 🐍 CONTRIBUTION GRAPH
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=BETACRD01&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FF6D00&area=true&custom_title=Contribution%20Activity)
-
-</div>
-
----
-
-<div align="center">
-
 ### 🎯 "First, solve the problem. Then, write the code." - John Johnson
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
