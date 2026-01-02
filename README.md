@@ -25,28 +25,6 @@
 
 <div align="center">
 
-## 💫 ABOUT ME
-
-</div>
-
-```typescript
-const willian = {
-    location: "🌎 Ecuador",
-    role: "🚀 Full Stack Mobile Developer",
-    currentProject: "📱 Deliber - Revolutionary Delivery App",
-    workingOn: ["Flutter", "Firebase", "Google Cloud Platform"],
-    challenges: {
-        2026: "🎯 Launch Deliber & Scale to 10K+ Users",
-        growth: "📈 Master Advanced Flutter Architectures",
-        community: "🤝 Open Source Contributions"
-    },
-    funFact: "☕ Code + Coffee = Innovation",
-    availability: "💼 Open for collaborations & freelance",
-};
-```
-
-<div align="center">
-
 ## ⚡ TECH ARSENAL
 
 ### 🎯 Core Technologies
@@ -109,20 +87,6 @@ const willian = {
 ### 🔥 Expertise Level
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,gcp,javascript,typescript,nodejs,postgres,git,github,vscode,figma,postman,linux" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GITHUB ANALYTICS
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BETACRD01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_seconds=1800" />
-<img width="49%" src="https://streak-stats.demolab.com?user=BETACRD01&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BETACRD01&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=10&cache_seconds=1800" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=BETACRD01&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FF6D00&area=true" />
 
 </div>
 
