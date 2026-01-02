@@ -138,23 +138,6 @@ gantt
 
 <div align="center">
 
-## 🏅 GITHUB TROPHIES
-
-<img src="https://github-profile-trophy.vercel.app/?username=BETACRD01&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-## 💭 DEVELOPER QUOTE
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
-
----
 
 <div align="center">
 
