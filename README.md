@@ -1,23 +1,10 @@
 <div align="center">
 
-# 🌟 WILLIAN CRD 🌟
+# WILLIAN CRD
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=FULL%20STACK%20DEVELOPER&fontSize=42&fontAlignY=32&desc=Building%20The%20Future%20One%20Line%20At%20A%20Time&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+### Full Stack Developer | Mobile App Architect
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Flutter+%7C+Dart+%7C+Firebase+Expert;Mobile+App+Architect;Google+Maps+API+Specialist;217+Contributions+This+Year+%F0%9F%94%A5" alt="Typing SVG" />
-
-</div>
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/BETACRD01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/willian-crd)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willian.crd@gmail.com)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@willian_crd)
-
-![Profile Views](https://komarev.com/ghpvc/?username=BETACRD01&color=00ff00&style=for-the-badge&label=VISITORS)
-![GitHub followers](https://img.shields.io/github/followers/BETACRD01?style=for-the-badge&color=blueviolet)
-![GitHub Stars](https://img.shields.io/github/stars/BETACRD01?style=for-the-badge&color=yellow)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Flutter+%7C+Dart+%7C+Firebase;Mobile+Development+Expert;Building+Quality+Solutions" alt="Typing SVG" />
 
 </div>
 
@@ -25,9 +12,20 @@
 
 <div align="center">
 
-## ⚡ TECH ARSENAL
+## 🔗 Connect
 
-### 🎯 Core Technologies
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/BETACRD01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/willian-crd)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willian.crd@gmail.com)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@willian_crd)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💻 Tech Stack
 
 <table>
   <tr>
@@ -70,8 +68,8 @@
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
@@ -84,8 +82,23 @@
   </tr>
 </table>
 
-### 🔥 Expertise Level
+</div>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,gcp,javascript,typescript,nodejs,postgres,git,github,vscode,figma,postman,linux" />
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=BETACRD01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BETACRD01&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="170"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
