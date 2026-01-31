@@ -88,17 +88,6 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=BETACRD01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BETACRD01&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="170"/>
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
