@@ -88,6 +88,25 @@
 
 <div align="center">
 
+## 📊 GitHub Stats
+
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" width="50%" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=BETACRD01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BETACRD01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
