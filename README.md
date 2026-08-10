@@ -41,25 +41,6 @@ I am a passionate **Software Engineer** specializing in mobile app development a
 
 </div>
 
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td align="center" width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=BETACRD01&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BETACRD01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
 <br>
 
 <div align="center">
