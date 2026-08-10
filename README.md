@@ -37,60 +37,7 @@ I am a passionate **Software Engineer** specializing in mobile app development a
 
 ## 💻 Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
-      <br>Dart
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
-      <br>Google Cloud
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
-      <br>Android Studio
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,gcp,js,ts,nodejs,postgres,git,figma,vscode,androidstudio&perline=6" alt="Tech Stack" />
 
 </div>
 
@@ -103,16 +50,13 @@ I am a passionate **Software Engineer** specializing in mobile app development a
 <table align="center" style="border: none;">
   <tr style="border: none;">
     <td align="center" width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=BETACRD01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=BETACRD01&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BETACRD01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
     </td>
   </tr>
 </table>
-
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BETACRD01&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </div>
 
